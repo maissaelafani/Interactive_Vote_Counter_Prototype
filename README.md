@@ -1,7 +1,8 @@
 ## Project Description
 This project implements a smart voting box that uses a custom capacitive sensor to detect the insertion of voting letters. 
 Each time a letter is inserted, the sensor detects it and sends a signal to increment the counter displayed on an OLED screen. 
-The system is designed to provide real-time feedback, ensuring accurate and transparent vote tracking.
+The system is designed to provide real-time feedback, ensuring accurate and transparent vote tracking. <br>  
+For a more detailed description, please refer to the [report](Rapport_Projet_Prototypage.pdf) attached to the project (written in French only).
 
 ## Components Used
 1. STM32 Microcontroller: Core processor for handling signals and updating the display.
